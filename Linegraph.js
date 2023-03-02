@@ -25,7 +25,7 @@ title:{
 },
 tooltip:{
     animation: true,
-backgroundColor: 'blue',
+backgroundColor: 'white',
 bordercolor: 'yellow',
 followpointer: true,
 
